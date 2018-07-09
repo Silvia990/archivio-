@@ -1,6 +1,8 @@
 
 <span class="sg-embed-wrapper" data-url="//snapguide.com/embed/v2/guide/make-bat-treat-boxes/" data-format="wide" data-slug="make-bat-treat-boxes" data-width="516px" data-height="474px">Check out <a href="http://snp.gd/hbg4ze">How to Make Bat Treat Boxes</a> by <a target="_blank" href="//snapguide.com/upcycle-that/">Upcycle That</a> on <a href="//snapguide.com/">Snapguide</a>.<script src="//snapguide.com/load-embed.js"></script></span>
 
+vai a <a href="risorse.html">risorse</a>
+
 
 ## Welcome to GitHub Pages
 
